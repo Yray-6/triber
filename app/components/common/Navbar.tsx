@@ -23,7 +23,7 @@ export default function Navbar() {
     <div>
       <nav className="flex justify-between py-7  px-[5%] items-center relative">
         <Link href={'/'}>
-        <Image src={'assets/logo.svg'} height={80} width={70} alt="triber-logo" className=' lg:w-[80px] w-[50px]'/></Link>
+        <Image src={'/assets/logo.svg'} height={80} width={70} alt="triber-logo" className=' lg:w-[80px] w-[50px]'/></Link>
        
         
         {/* Desktop Navigation */}
